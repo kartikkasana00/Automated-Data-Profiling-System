@@ -45,7 +45,7 @@ of the data profiling logic.
 ## Live Project Link
 The project is deployed as a live web application on Anvil:
 
-https://darling-composed-crack.anvil.app/
+https://darling-composed-crack.anvil.app
 
 ---
 
